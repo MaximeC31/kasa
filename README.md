@@ -1,6 +1,6 @@
 # Kasa
 
-Application web de location immobilière développée avec React et React Router, avec une interface moderne et responsive.
+Application React de consultation de logements, avec fiches détaillées, galerie d’images et navigation entre les pages.
 
 ## Description du projet
 
