@@ -25,8 +25,8 @@ Le projet a été développé en respectant des maquettes Figma responsives et d
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/MaximeC31/Kasa-react.git
-cd Kasa-react
+git clone https://github.com/MaximeC31/kasa.git
+cd kasa
 ```
 
 2. Installez les dépendances :

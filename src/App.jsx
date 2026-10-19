@@ -12,8 +12,8 @@ export const LOGEMENT_PATH = 'fiche-logement';
 
 const App = () => {
 	useEffect(() => {
-		if (window.location.pathname === '/Kasa-react/' && !window.location.hash) {
-			window.location.replace('/Kasa-react/#/');
+		if (window.location.pathname === '/kasa/' && !window.location.hash) {
+			window.location.replace('/kasa/#/');
 		}
 	}, []);
 
